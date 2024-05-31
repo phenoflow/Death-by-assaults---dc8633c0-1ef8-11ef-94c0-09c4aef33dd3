@@ -1,0 +1,87 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-means---secondary.py
+inputModule3:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-vapour---secondary.py
+inputModule4:
+  class: File
+  path: python/bioogical-death-by-assaults-unnatural-cause---secondary.py
+inputModule5:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-shotgun---secondary.py
+inputModule6:
+  class: File
+  path: python/sexual-death-by-assaults-unnatural-cause---secondary.py
+inputModule7:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-moving---secondary.py
+inputModule8:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-flame---secondary.py
+inputModule9:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-suffocation---secondary.py
+inputModule10:
+  class: File
+  path: python/noxious-death-by-assaults-unnatural-cause---secondary.py
+inputModule11:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-syndrome---secondary.py
+inputModule12:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-handgun---secondary.py
+inputModule13:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-firearm---secondary.py
+inputModule14:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-pushing---secondary.py
+inputModule15:
+  class: File
+  path: python/larger-death-by-assaults-unnatural-cause---secondary.py
+inputModule16:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-force---secondary.py
+inputModule17:
+  class: File
+  path: python/corrosive-death-by-assaults-unnatural-cause---secondary.py
+inputModule18:
+  class: File
+  path: python/material-death-by-assaults-unnatural-cause---secondary.py
+inputModule19:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-pesticide---secondary.py
+inputModule20:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-vehicle---secondary.py
+inputModule21:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-blunt---secondary.py
+inputModule22:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-submersion---secondary.py
+inputModule23:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-partner---secondary.py
+inputModule24:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-person---secondary.py
+inputModule25:
+  class: File
+  path: python/sharp-death-by-assaults-unnatural-cause---secondary.py
+inputModule26:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-friend---secondary.py
+inputModule27:
+  class: File
+  path: python/parent-death-by-assaults-unnatural-cause---secondary.py
+inputModule28:
+  class: File
+  path: python/death-by-assaults-unnatural-cause-abandonment---secondary.py
+inputModule29:
+  class: File
+  path: python/output-cases.py
